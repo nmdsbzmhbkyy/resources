@@ -1,9 +1,173 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T04:55:15.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.15" etag="W1ul9nkjm11mU8WHz6Qt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T06:50:59.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="8MY-vpzhSR6YQyHZYNST" version="22.1.15" type="github">
   <diagram name="第 1 页" id="xN4XWGk8VC5ycQ_dfYP9">
-    <mxGraphModel>
+    <mxGraphModel dx="1943" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-33" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;器材借阅流程&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;height: 2px; font-size: 14px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#FFF0F0;strokeColor=#b85450;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-250" width="250" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-32" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;预约系统流程&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;height: 2px; font-size: 14px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#F0F6FF;strokeColor=#6c8ebf;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-250" width="280" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-31" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;学生体测流程&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;height: 2px; font-size: 14px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#FFFAEB;strokeColor=#d6b656;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-250" width="250" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-1" value="发送方" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-337" y="-200" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-2" value="体测管理系统" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-369" y="-97" width="112" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-3" value="数据库" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-287" y="6" width="64" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-4" target="uPk-LLjLXFfj8x_UKwPp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-39" value="让接收方处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBorderColor=none;comic=1;" vertex="1" connectable="0" parent="uPk-LLjLXFfj8x_UKwPp-37">
+          <mxGeometry x="0.112" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-4" value="Feedback模块" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="109" width="115" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-5" value="发送方" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="190" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-6" value="体测信息录入" style="curved=0;startArrow=none;endArrow=block;exitX=0.5052083333333334;exitY=1;entryX=0.5022321428571429;entryY=0;rounded=1;jumpStyle=none;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-1" target="uPk-LLjLXFfj8x_UKwPp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-7" value="存储学生体测信息" style="curved=0;startArrow=none;endArrow=block;exitX=0.6724384535367545;exitY=1;entryX=0.5;entryY=0;rounded=1;jumpStyle=none;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-2" target="uPk-LLjLXFfj8x_UKwPp-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-255" y="-28" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-8" value="生成反馈信息" style="curved=0;startArrow=none;endArrow=block;exitX=0.33202583217753123;exitY=1;entryX=0.3320599409033348;entryY=0;rounded=1;jumpStyle=none;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-2" target="uPk-LLjLXFfj8x_UKwPp-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-370" y="-28" />
+              <mxPoint x="-370" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-9" value="存储反馈信息" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6635922330097087;entryY=0;rounded=1;jumpStyle=none;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-3" target="uPk-LLjLXFfj8x_UKwPp-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-255" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-10" value="发送通知" style="curved=0;startArrow=none;endArrow=block;exitX=0.49782608695652175;exitY=1;entryX=0.5052083333333334;entryY=0;rounded=1;jumpStyle=none;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-4" target="uPk-LLjLXFfj8x_UKwPp-5">
+          <mxGeometry x="0.0079" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-11" value="学生" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-200" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-12" value="体测管理系统" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-97" width="112" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-13" value="Reservation模块" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="6" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-14" value="数据库" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="109" width="64" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-15" value="提交预约请求" style="curved=0;startArrow=none;endArrow=block;exitX=0.005208333333333333;exitY=0.961624649859944;entryX=0.4955357142857143;entryY=0;rounded=1;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-11" target="uPk-LLjLXFfj8x_UKwPp-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-64" y="-131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-16" value="检查时间和地点是否可用" style="curved=0;startArrow=none;endArrow=block;exitX=0.4955357142857143;exitY=1;entryX=0.5038461538461538;entryY=0;rounded=1;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-12" target="uPk-LLjLXFfj8x_UKwPp-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-17" value="更新预约记录" style="curved=0;startArrow=none;endArrow=block;exitX=0.5038461538461538;exitY=1;entryX=0.09773209951456296;entryY=0;rounded=1;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-13" target="uPk-LLjLXFfj8x_UKwPp-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-64" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-18" value="发送预约确认" style="curved=0;startArrow=none;endArrow=block;exitX=0.910080400485437;exitY=0;entryX=1.0052083333333333;entryY=0.961624649859944;rounded=1;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-14" target="uPk-LLjLXFfj8x_UKwPp-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="93" y="75" />
+              <mxPoint x="93" y="-131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-19" value="管理员" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="-200" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-20" value="体测管理系统" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="-97" width="112" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-21" value="Equipment模块" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="6" width="124" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-22" value="数据库" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="109" width="64" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-23" value="提出借阅请求" style="curved=0;startArrow=none;endArrow=block;exitX=0.04616707119741115;exitY=1;entryX=0.4955357142857143;entryY=0;rounded=1;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-19" target="uPk-LLjLXFfj8x_UKwPp-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="-131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-24" value="检查器材是否可借" style="curved=0;startArrow=none;endArrow=block;exitX=0.4955357142857143;exitY=1;entryX=0.4959677419354839;entryY=0;rounded=1;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-20" target="uPk-LLjLXFfj8x_UKwPp-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-25" value="更新借阅记录" style="curved=0;startArrow=none;endArrow=block;exitX=0.4959677419354839;exitY=1;entryX=0.15962530339805836;entryY=0;rounded=1;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-21" target="uPk-LLjLXFfj8x_UKwPp-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-26" value="发送借阅确认" style="curved=0;startArrow=none;endArrow=block;exitX=0.8481871966019416;exitY=0;entryX=0.9642495954692555;entryY=1;rounded=1;fontSize=14;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-22" target="uPk-LLjLXFfj8x_UKwPp-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="75" />
+              <mxPoint x="385" y="-131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-27" value="体测管理系统" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fontSize=16;fillColor=#F5FAF5;strokeColor=#82b366;fontStyle=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="-320" width="136" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-34" value="接收方" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-418" y="190" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-41" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;labelBorderColor=none;comic=1;" edge="1" parent="1" source="uPk-LLjLXFfj8x_UKwPp-40" target="uPk-LLjLXFfj8x_UKwPp-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-96" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-42" value="设置预约信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBorderColor=none;comic=1;" vertex="1" connectable="0" parent="uPk-LLjLXFfj8x_UKwPp-41">
+          <mxGeometry x="-0.4508" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uPk-LLjLXFfj8x_UKwPp-40" value="管理员" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;labelBorderColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="190" width="48" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
